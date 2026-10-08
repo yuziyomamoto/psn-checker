@@ -1,0 +1,14 @@
+{
+  "npsso": "ВАШ_64_ЗНАЧНЫЙ_NPSSO_ТОКЕН_ИЛИ_СПИСОК_ТОКЕНОВ",
+  "game": "NPWR20188_00",
+  "trophy_id": 0,
+  "date_from": "2024-01-01",
+  "date_to": "2024-12-31",
+  "accounts_file": "accounts.txt",
+  "proxies_file": "proxies.txt",
+  "output_file": "results.txt",
+  "output_format": "detailed",
+  "concurrency": 3,
+  "delay": 0.3,
+  "service_name": null
+}
